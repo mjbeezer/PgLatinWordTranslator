@@ -1,0 +1,13 @@
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\obj\Debug\netcoreapp3.1\Pig Latin Exercise.csproj.AssemblyReference.cache
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\obj\Debug\netcoreapp3.1\Pig Latin Exercise.AssemblyInfoInputs.cache
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\obj\Debug\netcoreapp3.1\Pig Latin Exercise.AssemblyInfo.cs
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\obj\Debug\netcoreapp3.1\Pig Latin Exercise.csproj.CoreCompileInputs.cache
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\bin\Debug\netcoreapp3.1\Pig Latin Exercise.exe
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\bin\Debug\netcoreapp3.1\Pig Latin Exercise.deps.json
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\bin\Debug\netcoreapp3.1\Pig Latin Exercise.runtimeconfig.json
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\bin\Debug\netcoreapp3.1\Pig Latin Exercise.runtimeconfig.dev.json
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\bin\Debug\netcoreapp3.1\Pig Latin Exercise.dll
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\bin\Debug\netcoreapp3.1\Pig Latin Exercise.pdb
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\obj\Debug\netcoreapp3.1\Pig Latin Exercise.dll
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\obj\Debug\netcoreapp3.1\Pig Latin Exercise.pdb
+C:\Users\TheTower\source\repos\Pig Latin Exercise\Pig Latin Exercise\obj\Debug\netcoreapp3.1\Pig Latin Exercise.genruntimeconfig.cache
